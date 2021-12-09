@@ -30,3 +30,24 @@ div section {
     position: absolute;
     left: 10px;
 }
+#nav-list {
+    margin-top: 10px;
+}
+#nav-list a {
+    color: #951C49;
+    text-align: center;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -33px;
+}
+
+
+#nav-list li p {
+    background: #8e24aa;
+}
+
+/* END HEADER */
